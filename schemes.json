@@ -1,0 +1,153 @@
+[
+  {
+    "scheme_name": "Pradhan Mantri Awas Yojana",
+    "income_limit": 300000,
+    "min_age": 18,
+    "max_age": 70,
+    "category_allowed": ["General", "OBC", "SC", "ST", "EWS", "LIG", "MIG"],
+    "occupation_required": "Any (Must not own a pucca house)",
+    "documents_required": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Bank Passbook",
+      "Address Proof"
+    ],
+    "tamil_explanation": "வீடு இல்லாத ஏழை மற்றும் நடுத்தர வருமான குடும்பங்களுக்கு அரசு உதவியுடன் வீடு கட்ட உதவும் திட்டம்.",
+    "official_link": "https://pmaymis.gov.in/"
+  },
+  {
+    "scheme_name": "PM Kisan Samman Nidhi",
+    "income_limit": 9999999,
+    "min_age": 18,
+    "max_age": 100,
+    "category_allowed": ["General", "OBC", "SC", "ST"],
+    "occupation_required": "Farmer (Must own cultivable land)",
+    "documents_required": [
+      "Aadhaar Card",
+      "Land Records",
+      "Bank Account Details"
+    ],
+    "tamil_explanation": "சிறு மற்றும் குறைந்த நிலம் வைத்திருக்கும் விவசாயிகளுக்கு வருடத்திற்கு ₹6000 நிதி உதவி வழங்கும் திட்டம்.",
+    "official_link": "https://pmkisan.gov.in/"
+  },
+  {
+    "scheme_name": "Ayushman Bharat (PM-JAY)",
+    "income_limit": 200000,
+    "min_age": 0,
+    "max_age": 120,
+    "category_allowed": ["BPL", "Economically Weaker Section"],
+    "occupation_required": "Not Specific (Based on SECC data)",
+    "documents_required": [
+      "Aadhaar Card",
+      "Ration Card",
+      "Family ID"
+    ],
+    "tamil_explanation": "ஏழை குடும்பங்களுக்கு வருடத்திற்கு ₹5 லட்சம் வரை இலவச மருத்துவ காப்பீடு வழங்கும் திட்டம்.",
+    "official_link": "https://pmjay.gov.in/"
+  },
+  {
+    "scheme_name": "National Scholarship Portal",
+    "income_limit": 250000,
+    "min_age": 10,
+    "max_age": 30,
+    "category_allowed": ["General", "OBC", "SC", "ST", "Minority"],
+    "occupation_required": "Student",
+    "documents_required": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Marksheet",
+      "Bank Account Details"
+    ],
+    "tamil_explanation": "பள்ளி மற்றும் கல்லூரி மாணவர்களுக்கு கல்வி உதவித்தொகை வழங்கும் மத்திய அரசு தளம்.",
+    "official_link": "https://scholarships.gov.in/"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Ujjwala Yojana",
+    "income_limit": 200000,
+    "min_age": 18,
+    "max_age": 100,
+    "category_allowed": ["BPL", "SC", "ST", "OBC"],
+    "occupation_required": "Any (BPL Household)",
+    "documents_required": [
+      "Aadhaar Card",
+      "Ration Card",
+      "Address Proof"
+    ],
+    "tamil_explanation": "ஏழை குடும்ப பெண்களுக்கு இலவச LPG எரிவாயு இணைப்பு வழங்கும் திட்டம்.",
+    "official_link": "https://www.pmuy.gov.in/"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Mudra Yojana",
+    "income_limit": 9999999,
+    "min_age": 18,
+    "max_age": 65,
+    "category_allowed": ["General", "OBC", "SC", "ST", "Women"],
+    "occupation_required": "Entrepreneur / Small Business Owner",
+    "documents_required": [
+      "Aadhaar Card",
+      "Business Proof",
+      "Bank Account Details"
+    ],
+    "tamil_explanation": "சிறு மற்றும் குறு தொழில்களை தொடங்க அல்லது விரிவுபடுத்த கடன் உதவி வழங்கும் திட்டம்.",
+    "official_link": "https://www.mudra.org.in/"
+  },
+  {
+    "scheme_name": "Atal Pension Yojana",
+    "income_limit": 9999999,
+    "min_age": 18,
+    "max_age": 40,
+    "category_allowed": ["General", "OBC", "SC", "ST"],
+    "occupation_required": "Unorganized Sector Worker",
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details"
+    ],
+    "tamil_explanation": "ஒழுங்கற்ற துறையில் பணிபுரிபவர்களுக்கு முதிய வயதில் ஓய்வூதியம் வழங்கும் திட்டம்.",
+    "official_link": "https://www.npscra.nsdl.co.in/"
+  },
+  {
+    "scheme_name": "Sukanya Samriddhi Yojana",
+    "income_limit": 9999999,
+    "min_age": 0,
+    "max_age": 10,
+    "category_allowed": ["Girl Child"],
+    "occupation_required": "Parent / Guardian of Girl Child",
+    "documents_required": [
+      "Birth Certificate",
+      "Aadhaar Card"
+    ],
+    "tamil_explanation": "பெண் குழந்தைகளின் கல்வி மற்றும் திருமண செலவுக்காக சேமிப்பு திட்டம்.",
+    "official_link": "https://www.indiapost.gov.in/"
+  },
+  {
+    "scheme_name": "PM SVANidhi",
+    "income_limit": 300000,
+    "min_age": 18,
+    "max_age": 60,
+    "category_allowed": ["General", "OBC", "SC", "ST"],
+    "occupation_required": "Street Vendor",
+    "documents_required": [
+      "Aadhaar Card",
+      "Vendor ID",
+      "Bank Account Details"
+    ],
+    "tamil_explanation": "தெரு வியாபாரிகளுக்கு சிறு தொழில் கடன் வழங்கும் திட்டம்.",
+    "official_link": "https://pmsvanidhi.mohua.gov.in/"
+  },
+  {
+    "scheme_name": "Stand Up India Scheme",
+    "income_limit": 9999999,
+    "min_age": 18,
+    "max_age": 65,
+    "category_allowed": ["SC", "ST", "Women"],
+    "occupation_required": "Entrepreneur",
+    "documents_required": [
+      "Aadhaar Card",
+      "Caste Certificate",
+      "Business Plan",
+      "Bank Account Details"
+    ],
+    "tamil_explanation": "SC/ST மற்றும் பெண்கள் தொழில் தொடங்க வங்கிக் கடன் உதவி வழங்கும் திட்டம்.",
+    "official_link": "https://www.standupmitra.in/"
+  }
+]
