@@ -1,0 +1,59 @@
+body{
+  margin:0;
+}
+
+.container{
+  max-width:500px;
+  margin:auto;
+  padding:20px;
+}
+
+.inputBox{
+  display:flex;
+  align-items:center;
+  background:white;
+  padding:10px;
+  margin:10px 0;
+  border-radius:8px;
+  box-shadow:0 2px 5px rgba(0,0,0,0.1);
+}
+
+.icon{
+  margin-right:10px;
+  color:#6c63ff;
+}
+
+.inputBox input,
+.inputBox select{
+  border:none;
+  outline:none;
+  width:100%;
+}
+
+.checkBtn{
+  width:100%;
+  padding:12px;
+  background:linear-gradient(45deg,#ff7e5f,#feb47b);
+  border:none;
+  border-radius:8px;
+  color:white;
+  font-size:16px;
+  cursor:pointer;
+  transition:0.3s;
+}
+
+.checkBtn:hover{
+  transform:scale(1.05);
+}
+
+.loading{
+  text-align:center;
+  color:#333;
+  margin-top:10px;
+}
+
+@media (max-width:600px){
+  .container{
+    padding:10px;
+  }
+}
